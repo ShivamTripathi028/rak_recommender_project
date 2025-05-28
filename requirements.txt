@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard] # ASGI server to run FastAPI
+pandas
+numpy
+sentence-transformers
+# torch # If needed
+python-dotenv 

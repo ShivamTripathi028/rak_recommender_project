@@ -65,6 +65,6 @@ CONNECTIVITY_JSON_TO_PRODUCT_KEYWORDS = {
 
 # --- Data File Paths ---
 # Assuming data files are in a 'data' subdirectory relative to where main_production.py is run
-PRODUCT_FILE = 'recommender_system/data/product_table.csv'
-FEATURE_FILE = 'recommender_system/data/feature_table.csv'
-MAPPING_FILE = 'recommender_system/data/mapping_table.csv'
+PRODUCT_FILE = 'data/product_table.csv'
+FEATURE_FILE = 'data/feature_table.csv'
+MAPPING_FILE = 'data/mapping_table.csv'
