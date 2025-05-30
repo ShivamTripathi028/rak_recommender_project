@@ -36,6 +36,7 @@ origins = [
     "http://127.0.0.1:8888",
     "http://127.0.0.1:8080",
     "http://127.0.0.1:5173",
+    "https://shadow-talk-to-rak.netlify.app",
     # Add your deployed Netlify frontend URL here later like:
     # "https://your-unified-app-name.netlify.app"
 ]
